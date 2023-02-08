@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sandesh Gyawali. I'm currently a student at University of Kentucky, pursuing Computer Engineering.
+I'm currently a student at University of Kentucky, pursuing Computer Engineering.
 
 - 🔭 I’m currently working on iOS App Development.
 - 🌱 I’m currently learning Swift Programming.
